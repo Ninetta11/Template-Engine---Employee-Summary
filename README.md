@@ -9,7 +9,7 @@
   ## Demonstration
   ![short demo](https://user-images.githubusercontent.com/65838273/97372434-bb228800-1907-11eb-9f96-ab00fbfc9d4c.gif)
   
-  View full demonstration [here](http://wwww.github.com/ninetta11/Template-Engine---Employee-Summary/assets/video/full demonstration.mov)
+  View full demonstration [here](https://github.com/Ninetta11/Template-Engine---Employee-Summary/blob/main/assets/video/full%20demonstration.mov)
   
   ## Table of Contents
   1. [Installation](#installation)
