@@ -6,6 +6,9 @@
   ## Description
   Template Engine is a software engineering team generator command line application. The application prompts user's for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create a HTML file that displays a formatted team roster based on the information provided.
 
+  ## Demonstration
+  
+
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
@@ -29,7 +32,7 @@
 
   ## Tests
   To run tests, run the following command:
-  node test
+  npm test
 
   ## Questions
   If you have any questions about this repo, open an issue or contact me directly at [ninawelsh1@outlook.com](mailto:ninawelsh1@outlook.com). You can find more of my work at [ninetta11](https://www.github.com/ninetta11).
