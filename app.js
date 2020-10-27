@@ -80,7 +80,10 @@ const selectEmployeeType = [
             "Engineer",
             "Intern",
             "I don't want to add any more team members"
-        ]
+        ],
+        filter: function (val) {
+            return role = val.toLowerCase();
+        }
     }
 ]
 
@@ -129,10 +132,10 @@ function newIntern() {
 function NewEmployee() {
     inquirer.prompt(selectEmployeeType).then(function (data) {
         switch (data.add) {
-            case "Engineer":
+            case "engineer":
                 newEngineer();
                 break;
-            case "Intern":
+            case "intern":
                 newIntern();
                 break;
             default:
